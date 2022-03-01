@@ -4,3 +4,5 @@ __pycache__/
 site/
 .idea/
 Figures.pptx
+*.ipynb
+labs/data/welllogs/
